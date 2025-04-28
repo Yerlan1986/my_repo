@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "name": "Видеокарта",
+        "catalog_type": "preset",
+        "catalog_value": "preset=600000946",
+        "normquery": "видеокарты",
+        "context": [
+            "электроника"
+        ],
+        "rmi": "1",
+        "rs": 100,
+        "title": "Видеокарта",
+        "search_result": {}
+    },
+    "state": 0,
+    "version": 2,
+    "payloadVersion": 2,
+    "data": {
+        "products": [],
+        "total": 2037
+    }
+}
