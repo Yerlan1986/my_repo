@@ -1,0 +1,4 @@
+my_env
+.idea
+__pycache__
+pytest.cache
